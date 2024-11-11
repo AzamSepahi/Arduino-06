@@ -28,7 +28,7 @@
 ![](/media/TEMP.jpg)
 
 ## شکل مدار :
-![](/media/temp2.jpg)
+![](/media/temp.jpg)
 
 
 
