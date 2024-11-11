@@ -25,10 +25,10 @@
 ![](/media/TEMPGIF.gif)
 
 ## شکل شماتیک مدار:
-![](/media/temp.jpg)
+![](/media/TEMP.jpg)
 
 ## شکل مدار :
-![](/media/TEMP.jpg)
+![](/media/temp2.jpg)
 
 
 
